@@ -9,4 +9,5 @@
 |  |
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 <!---LeetCode Topics End-->
