@@ -18,16 +18,19 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -36,4 +39,8 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
