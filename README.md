@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
