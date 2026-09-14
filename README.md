@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
