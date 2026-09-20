@@ -54,6 +54,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
