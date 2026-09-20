@@ -7,6 +7,7 @@
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3945-digit-frequency-score](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3945-digit-frequency-score](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
