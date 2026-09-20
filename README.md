@@ -12,6 +12,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
@@ -78,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -109,10 +111,19 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
