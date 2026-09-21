@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
+| [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3945-digit-frequency-score) |
@@ -37,6 +38,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2090-k-radius-subarray-averages) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
