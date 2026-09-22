@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3870-count-commas-in-range) |
@@ -155,4 +156,24 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0303-range-sum-query-immutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
