@@ -61,6 +61,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0482-license-key-formatting](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1332-remove-palindromic-subsequences) |
