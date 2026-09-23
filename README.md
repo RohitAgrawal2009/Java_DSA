@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0482-license-key-formatting) |
@@ -190,4 +191,12 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
