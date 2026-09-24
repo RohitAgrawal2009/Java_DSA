@@ -18,6 +18,7 @@
 | [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -164,6 +165,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
