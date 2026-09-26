@@ -29,6 +29,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -144,10 +145,12 @@
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
@@ -205,4 +208,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
