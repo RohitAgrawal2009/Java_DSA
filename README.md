@@ -42,6 +42,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -58,6 +59,7 @@
 | [0904-fruit-into-baskets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3945-digit-frequency-score](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3945-digit-frequency-score) |
