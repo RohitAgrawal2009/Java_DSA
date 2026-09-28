@@ -17,6 +17,7 @@
 | [0027-remove-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0136-single-number) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0482-license-key-formatting) |
@@ -144,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
