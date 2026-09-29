@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -226,4 +229,8 @@
 | ------- |
 | [0326-power-of-three](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
