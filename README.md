@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
