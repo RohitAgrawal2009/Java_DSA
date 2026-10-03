@@ -31,6 +31,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -61,6 +62,7 @@
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -116,6 +118,7 @@
 | [0027-remove-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -127,6 +130,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -157,6 +161,7 @@
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
+| [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 ## Greedy
