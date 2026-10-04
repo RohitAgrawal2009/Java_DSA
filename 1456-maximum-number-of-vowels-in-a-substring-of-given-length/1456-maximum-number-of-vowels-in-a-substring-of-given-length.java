@@ -3,37 +3,17 @@ class Solution {
         int count = 0;
         int n = s.length();
         int max = 0;
-        // First window
-        for (int i = 0; i < k; i++) {
-            if (isvowel(s.charAt(i))) {
+        for (int i = 0; i < n; i++) {
+            if ("aeiou".indexOf(s.charAt(i)) >= 0) {
                 count++;
             }
-        }
-
-        max = count;
-
-        // Sliding window
-        for (int i = k; i < s.length(); i++) {
-
-            // Remove outgoing character
-            if (isvowel(s.charAt(i - k))) {
+            if (i >= k && "aeiou".indexOf(s.charAt(i - k)) >= 0) {
                 count--;
             }
-
-            // Add incoming character
-            if (isvowel(s.charAt(i))) {
-                count++;
+            if (i >= k - 1) {
+                max = Math.max(max, count);
             }
-
-            max = Math.max(max, count);
         }
-
         return max;
-
-    }
-
-    public boolean isvowel(char ch) {
-        return ch == 'a' || ch == 'e' || ch == 'i' ||
-                ch == 'o' || ch == 'u';
     }
 }
