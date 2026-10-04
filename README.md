@@ -23,6 +23,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0136-single-number) |
@@ -151,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
@@ -187,6 +189,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
