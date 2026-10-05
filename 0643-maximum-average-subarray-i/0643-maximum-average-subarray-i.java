@@ -6,13 +6,10 @@ class Solution {
         }
         double maxsum = sum;
         for (int i = k; i < nums.length; i++) {
-            sum = (sum + nums[i]) - nums[i - k];
-            if (sum > maxsum) {
-                maxsum = sum;
-            }
+            sum = sum - nums[i - k] + nums[i];
+            maxsum = Math.max(maxsum, sum);
         }
-            
-        double avg = maxsum / k;
-        return avg;
+        double Avg = maxsum / k;
+        return Avg;
     }
 }
