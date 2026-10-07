@@ -92,6 +92,7 @@
 | [0551-student-attendance-record-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1332-remove-palindromic-subsequences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -183,6 +184,7 @@
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quicksort
 |  |
 | ------- |
@@ -240,11 +242,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
 |  |
 | ------- |
