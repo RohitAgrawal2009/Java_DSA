@@ -3,13 +3,13 @@ class Solution {
         if (x < 0) {
             return false;
         }
-        int m = x;
+        int num = x;
         int rev = 0;
         while (x > 0) {
             rev = rev * 10 + x % 10;
             x /= 10;
         }
-        if (rev == m) {
+        if (rev == num) {
             return true;
         } else {
             return false;
