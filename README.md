@@ -49,6 +49,7 @@
 | [0875-koko-eating-bananas](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1652-defuse-the-bomb) |
@@ -134,6 +135,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
@@ -182,6 +184,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
