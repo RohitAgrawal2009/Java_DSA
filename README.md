@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
