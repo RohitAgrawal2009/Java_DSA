@@ -61,6 +61,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -85,6 +86,7 @@
 | [0904-fruit-into-baskets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -295,4 +297,12 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
