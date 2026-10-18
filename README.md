@@ -12,6 +12,7 @@
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
+| [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
