@@ -10,6 +10,7 @@
 | [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
 | [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
@@ -157,6 +158,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
