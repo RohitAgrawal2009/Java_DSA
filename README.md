@@ -112,6 +112,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
