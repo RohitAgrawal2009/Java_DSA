@@ -1,28 +1,38 @@
 
-import java.util.ArrayList;
-
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<>();
-
+        int count = 0;
         ListNode temp = head;
 
-        // Step 1: Store all values in array
+        // Step 1: Count nodes
         while (temp != null) {
-            arr.add(temp.val);
+            count++;
             temp = temp.next;
         }
 
-        // Step 2: Put values back in reverse order
+        // Step 2: Create array
+        int[] array = new int[count];
+        int p = count - 1;
+
+        // Step 3: Store values in reverse order
         temp = head;
-        int i = arr.size() - 1;
+        while (temp != null) {
+            array[p] = temp.val;
+            temp = temp.next;
+            p--;
+        }
+
+        // Step 4: Copy values back into linked list
+        temp = head;
+        p = 0;
 
         while (temp != null) {
-            temp.val = arr.get(i);
-            i--;
+            temp.val = array[p];
             temp = temp.next;
+            p++;
         }
 
         return head;
     }
 }
+
