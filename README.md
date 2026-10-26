@@ -283,6 +283,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
 ## Floyd's Cycle Finding Algorithm
@@ -309,4 +310,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
