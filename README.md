@@ -283,6 +283,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
@@ -313,5 +314,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
