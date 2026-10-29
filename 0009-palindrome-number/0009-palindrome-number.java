@@ -3,16 +3,16 @@ class Solution {
         if (x < 0) {
             return false;
         }
-        int rev = 0;
-        int temp = x;
-        while (x != 0) {
-            rev = rev * 10 + x % 10;
-            x /= 10;
+
+        int original = x;
+        long reverse = 0;
+
+        while (x > 0) {
+            int digit = x % 10;
+            reverse = reverse * 10 + digit;
+            x = x / 10;
         }
-        if (rev == temp) {
-            return true;
-        } else {
-            return false;
-        }
+
+        return original == reverse;
     }
 }
