@@ -30,6 +30,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
@@ -184,6 +186,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -328,4 +332,8 @@
 | [0206-reverse-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0876-middle-of-the-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
