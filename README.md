@@ -13,6 +13,7 @@
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
 | [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -311,6 +313,7 @@
 | [0234-palindrome-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -354,4 +357,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
