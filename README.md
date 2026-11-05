@@ -15,6 +15,7 @@
 | [0507-perfect-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -200,6 +201,7 @@
 | [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
@@ -361,4 +363,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
