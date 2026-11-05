@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0326-power-of-three) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -362,6 +364,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
