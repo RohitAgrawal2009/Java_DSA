@@ -18,6 +18,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3945-digit-frequency-score) |
@@ -73,6 +74,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
