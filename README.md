@@ -111,6 +111,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0344-reverse-string) |
@@ -202,6 +203,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0070-climbing-stairs) |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -377,4 +380,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
