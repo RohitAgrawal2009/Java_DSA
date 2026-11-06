@@ -62,6 +62,7 @@
 | [0875-koko-eating-bananas](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -227,6 +228,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2747-count-zero-request-servers) |
@@ -261,6 +263,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -401,4 +405,20 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
