@@ -44,6 +44,7 @@
 | [0136-single-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0238-product-of-array-except-self) |
@@ -384,4 +385,20 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
