@@ -70,6 +70,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2747-count-zero-request-servers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -99,6 +100,7 @@
 | [0904-fruit-into-baskets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2747-count-zero-request-servers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -142,6 +144,7 @@
 | [1652-defuse-the-bomb](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2090-k-radius-subarray-averages) |
+| [2747-count-zero-request-servers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
@@ -223,6 +226,7 @@
 | [0905-sort-array-by-parity](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
