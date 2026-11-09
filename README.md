@@ -297,6 +297,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
