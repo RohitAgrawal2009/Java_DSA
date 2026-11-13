@@ -23,6 +23,7 @@ class Solution {
         }
         
         // 2. We can add a close parenthesis if the number of close parentheses is less than open ones
+        
         if (close < open) {
             current.append(')');
             backtrack(result, current, open, close + 1, max);
