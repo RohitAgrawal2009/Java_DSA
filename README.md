@@ -16,6 +16,7 @@
 | [0441-arranging-coins](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0509-fibonacci-number) |
+| [0670-maximum-swap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
@@ -242,6 +243,7 @@
 | [0011-container-with-most-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
