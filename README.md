@@ -77,6 +77,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -149,6 +150,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2747-count-zero-request-servers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
