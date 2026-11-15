@@ -19,6 +19,7 @@
 | [0670-maximum-swap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -68,6 +69,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -205,6 +207,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
@@ -217,6 +220,7 @@
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
