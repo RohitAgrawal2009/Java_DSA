@@ -131,6 +131,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0258-add-digits) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
