@@ -121,6 +121,7 @@
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0551-student-attendance-record-i) |
@@ -173,6 +174,7 @@
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0876-middle-of-the-linked-list) |
