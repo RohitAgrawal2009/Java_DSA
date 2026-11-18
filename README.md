@@ -119,6 +119,7 @@
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -169,6 +170,7 @@
 | [0027-remove-element](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
