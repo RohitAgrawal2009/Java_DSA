@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0258-add-digits) |
@@ -191,6 +192,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -437,4 +439,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0912-sort-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
