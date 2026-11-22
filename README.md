@@ -291,6 +291,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0303-range-sum-query-immutable) |
 ## Brainteaser
 |  |
@@ -323,6 +324,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
