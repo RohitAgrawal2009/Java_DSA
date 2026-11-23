@@ -59,6 +59,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0724-find-pivot-index) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -327,6 +329,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
