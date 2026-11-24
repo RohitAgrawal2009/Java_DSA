@@ -22,6 +22,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -83,6 +84,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -160,6 +162,7 @@
 | [2747-count-zero-request-servers](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -321,6 +324,7 @@
 | [1291-sequential-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -410,6 +414,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
