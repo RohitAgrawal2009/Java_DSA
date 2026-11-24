@@ -21,6 +21,7 @@
 | [0836-rectangle-overlap](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1837-sum-of-digits-in-base-k](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [2652-sum-multiples](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2652-sum-multiples) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3524-find-x-value-of-array-i) |
