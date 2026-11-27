@@ -133,6 +133,7 @@
 | [0551-student-attendance-record-i](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1332-remove-palindromic-subsequences) |
@@ -186,6 +187,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -335,6 +338,7 @@
 | [0234-palindrome-linked-list](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohitAgrawal2009/Java_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
