@@ -18,7 +18,6 @@ class Solution {
             }
         }
 
-        return water;        
+        return water;
     }
 }
-
